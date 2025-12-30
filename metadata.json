@@ -1,0 +1,8 @@
+{
+  "name": "Language Mentor",
+  "description": "A specialized AI mentor that teaches complex concepts using authentic regional Tamil dialects, accents, and local metaphors.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
